@@ -1,0 +1,225 @@
+-------------------------------------------------------------------
+xmr-stak 2.4.7 c5f0505d
+
+Brought to you by fireice_uk and psychocrypt under GPLv3.
+Based on CPU mining code by wolf9466 (heavily optimized by fireice_uk).
+Based on OpenCL mining code by wolf9466.
+
+Configurable dev donation level is set to 2.0%
+
+You can use following keys to display reports:
+'h' - hashrate
+'r' - results
+'c' - connection
+-------------------------------------------------------------------
+[2018-09-25 13:10:18] : Mining coin: cryptonight_masari
+[2018-09-25 13:10:18] : WARNING: UNKNOWN_ERROR when calling clGetPlatformIDs for number of platforms.
+[2018-09-25 13:10:18] : WARNING: No OpenCL platform found.
+[2018-09-25 13:10:18] : WARNING: No AMD OpenCL platform found. Possible driver issues or wrong vendor driver.
+[2018-09-25 13:10:18] : WARNING: backend AMD (OpenCL) disabled.
+[2018-09-25 13:10:18] : CPU configuration stored in file 'cpu.txt'
+[2018-09-25 13:10:18] : Starting 2x thread, affinity: 0.
+[2018-09-25 13:10:18] : hwloc: memory pinned
+[2018-09-25 13:10:18] : Starting 2x thread, affinity: 1.
+[2018-09-25 13:10:18] : hwloc: memory pinned
+[2018-09-25 13:10:18] : Fast-connecting to pool.electronero.org:6666 pool ...
+[2018-09-25 13:10:18] : Pool pool.electronero.org:6666 connected. Logging in...
+[2018-09-25 13:10:19] : Difficulty changed. Now: 3000.
+[2018-09-25 13:10:19] : Pool logged in.
+-------------------------------------------------------------------
+xmr-stak 2.4.7 c5f0505d
+
+Brought to you by fireice_uk and psychocrypt under GPLv3.
+Based on CPU mining code by wolf9466 (heavily optimized by fireice_uk).
+Based on OpenCL mining code by wolf9466.
+
+Configurable dev donation level is set to 2.0%
+
+You can use following keys to display reports:
+'h' - hashrate
+'r' - results
+'c' - connection
+-------------------------------------------------------------------
+[2018-09-25 13:17:23] : Mining coin: cryptonight_masari
+[2018-09-25 13:17:23] : WARNING: UNKNOWN_ERROR when calling clGetPlatformIDs for number of platforms.
+[2018-09-25 13:17:23] : WARNING: No OpenCL platform found.
+[2018-09-25 13:17:23] : WARNING: No AMD OpenCL platform found. Possible driver issues or wrong vendor driver.
+[2018-09-25 13:17:23] : WARNING: backend AMD (OpenCL) disabled.
+[2018-09-25 13:17:23] : Starting 2x thread, affinity: 0.
+[2018-09-25 13:17:23] : hwloc: memory pinned
+[2018-09-25 13:17:23] : Starting 2x thread, affinity: 1.
+[2018-09-25 13:17:23] : hwloc: memory pinned
+[2018-09-25 13:17:23] : Fast-connecting to pool.electronero.org:6666 pool ...
+[2018-09-25 13:17:23] : Pool pool.electronero.org:6666 connected. Logging in...
+[2018-09-25 13:17:23] : Difficulty changed. Now: 3000.
+[2018-09-25 13:17:23] : Pool logged in.
+[2018-09-25 13:17:33] : Result rejected by the pool.
+-------------------------------------------------------------------
+xmr-stak 2.4.7 c5f0505d
+
+Brought to you by fireice_uk and psychocrypt under GPLv3.
+Based on CPU mining code by wolf9466 (heavily optimized by fireice_uk).
+Based on OpenCL mining code by wolf9466.
+
+Configurable dev donation level is set to 2.0%
+
+You can use following keys to display reports:
+'h' - hashrate
+'r' - results
+'c' - connection
+-------------------------------------------------------------------
+[2018-09-25 13:19:21] : Mining coin: cryptonight_masari
+[2018-09-25 13:19:21] : WARNING: UNKNOWN_ERROR when calling clGetPlatformIDs for number of platforms.
+[2018-09-25 13:19:21] : WARNING: No OpenCL platform found.
+[2018-09-25 13:19:21] : WARNING: No AMD OpenCL platform found. Possible driver issues or wrong vendor driver.
+[2018-09-25 13:19:21] : WARNING: backend AMD (OpenCL) disabled.
+[2018-09-25 13:19:21] : Starting 2x thread, affinity: 0.
+[2018-09-25 13:19:21] : hwloc: memory pinned
+[2018-09-25 13:19:21] : Starting 2x thread, affinity: 1.
+[2018-09-25 13:19:21] : hwloc: memory pinned
+[2018-09-25 13:19:21] : Fast-connecting to pool.electronero.org:6666 pool ...
+[2018-09-25 13:19:21] : Pool pool.electronero.org:6666 connected. Logging in...
+[2018-09-25 13:19:22] : Difficulty changed. Now: 3000.
+[2018-09-25 13:19:22] : Pool logged in.
+[2018-09-25 13:19:27] : Result accepted by the pool.
+[2018-09-25 13:19:37] : Result accepted by the pool.
+[2018-09-25 13:19:42] : Difficulty changed. Now: 6000.
+[2018-09-25 13:19:42] : New block detected.
+[2018-09-25 13:19:58] : Result rejected by the pool.
+[2018-09-25 13:20:08] : New block detected.
+RESULT REPORT
+Difficulty       : 6000
+Good results     : 2 / 3 (66.7 %)
+Avg result time  : 17.3 sec
+Pool-side hashes : 6000
+
+Top 10 best results found:
+|  0 |             8589 |  1 |             3656 |
+|  2 |                0 |  3 |                0 |
+|  4 |                0 |  5 |                0 |
+|  6 |                0 |  7 |                0 |
+|  8 |                0 |  9 |                0 |
+
+Error details:
+| Count | Error text                       | Last seen           |
+|     1 | Rejected share: invalid result   | 2018-09-25 13:19:58 |
+HASHRATE REPORT - CPU
+| ID |    10s |    60s |    15m | ID |    10s |    60s |    15m |
+|  0 |  118.4 |   (na) |   (na) |  1 |  118.4 |   (na) |   (na) |
+Totals (CPU):   236.9    0.0    0.0 H/s
+-----------------------------------------------------------------
+Totals (ALL):    236.9    0.0    0.0 H/s
+Highest:   237.8 H/s
+-----------------------------------------------------------------
+RESULT REPORT
+Difficulty       : 6000
+Good results     : 2 / 3 (66.7 %)
+Avg result time  : 20.7 sec
+Pool-side hashes : 6000
+
+Top 10 best results found:
+|  0 |             8589 |  1 |             3656 |
+|  2 |                0 |  3 |                0 |
+|  4 |                0 |  5 |                0 |
+|  6 |                0 |  7 |                0 |
+|  8 |                0 |  9 |                0 |
+
+Error details:
+| Count | Error text                       | Last seen           |
+|     1 | Rejected share: invalid result   | 2018-09-25 13:19:58 |
+HASHRATE REPORT - CPU
+| ID |    10s |    60s |    15m | ID |    10s |    60s |    15m |
+|  0 |  118.6 |  118.6 |   (na) |  1 |  118.6 |  118.6 |   (na) |
+Totals (CPU):   237.3  237.1    0.0 H/s
+-----------------------------------------------------------------
+Totals (ALL):    237.3  237.1    0.0 H/s
+Highest:   237.8 H/s
+-----------------------------------------------------------------
+RESULT REPORT
+Difficulty       : 6000
+Good results     : 2 / 3 (66.7 %)
+Avg result time  : 23.0 sec
+Pool-side hashes : 6000
+
+Top 10 best results found:
+|  0 |             8589 |  1 |             3656 |
+|  2 |                0 |  3 |                0 |
+|  4 |                0 |  5 |                0 |
+|  6 |                0 |  7 |                0 |
+|  8 |                0 |  9 |                0 |
+
+Error details:
+| Count | Error text                       | Last seen           |
+|     1 | Rejected share: invalid result   | 2018-09-25 13:19:58 |
+RESULT REPORT
+Difficulty       : 6000
+Good results     : 2 / 3 (66.7 %)
+Avg result time  : 24.0 sec
+Pool-side hashes : 6000
+
+Top 10 best results found:
+|  0 |             8589 |  1 |             3656 |
+|  2 |                0 |  3 |                0 |
+|  4 |                0 |  5 |                0 |
+|  6 |                0 |  7 |                0 |
+|  8 |                0 |  9 |                0 |
+
+Error details:
+| Count | Error text                       | Last seen           |
+|     1 | Rejected share: invalid result   | 2018-09-25 13:19:58 |
+[2018-09-25 13:20:47] : New block detected.
+[2018-09-25 13:20:53] : New block detected.
+[2018-09-25 13:20:59] : Result accepted by the pool.
+[2018-09-25 13:21:02] : Result accepted by the pool.
+[2018-09-25 13:21:03] : Result accepted by the pool.
+[2018-09-25 13:21:12] : Difficulty changed. Now: 12000.
+[2018-09-25 13:21:12] : New block detected.
+HASHRATE REPORT - CPU
+| ID |    10s |    60s |    15m | ID |    10s |    60s |    15m |
+|  0 |  118.8 |  118.6 |   (na) |  1 |  118.8 |  118.6 |   (na) |
+Totals (CPU):   237.6  237.1    0.0 H/s
+-----------------------------------------------------------------
+Totals (ALL):    237.6  237.1    0.0 H/s
+Highest:   237.8 H/s
+-----------------------------------------------------------------
+[2018-09-25 13:21:30] : New block detected.
+[2018-09-25 13:21:47] : New block detected.
+HASHRATE REPORT - CPU
+| ID |    10s |    60s |    15m | ID |    10s |    60s |    15m |
+|  0 |  118.8 |  118.8 |   (na) |  1 |  118.8 |  118.8 |   (na) |
+Totals (CPU):   237.6  237.7    0.0 H/s
+-----------------------------------------------------------------
+Totals (ALL):    237.6  237.7    0.0 H/s
+Highest:   238.0 H/s
+-----------------------------------------------------------------
+RESULT REPORT
+Difficulty       : 12000
+Good results     : 5 / 6 (83.3 %)
+Avg result time  : 28.7 sec
+Pool-side hashes : 24000
+
+Top 10 best results found:
+|  0 |            69083 |  1 |            28156 |
+|  2 |            10835 |  3 |             8589 |
+|  4 |             3656 |  5 |                0 |
+|  6 |                0 |  7 |                0 |
+|  8 |                0 |  9 |                0 |
+
+Error details:
+| Count | Error text                       | Last seen           |
+|     1 | Rejected share: invalid result   | 2018-09-25 13:19:58 |
+CONNECTION REPORT
+Pool address    : pool.electronero.org:6666
+Connected since : 2018-09-25 13:19:22
+Pool ping time  : 95 ms
+
+Network error log:
+Yay! No errors.
+HASHRATE REPORT - CPU
+| ID |    10s |    60s |    15m | ID |    10s |    60s |    15m |
+|  0 |  118.9 |  118.8 |   (na) |  1 |  118.6 |  118.8 |   (na) |
+Totals (CPU):   237.5  237.6    0.0 H/s
+-----------------------------------------------------------------
+Totals (ALL):    237.5  237.6    0.0 H/s
+Highest:   238.0 H/s
+-----------------------------------------------------------------
